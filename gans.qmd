@@ -1,0 +1,118 @@
+---
+title: "__Introduction to Generative Adversarial Network__"
+author: "Big Data and Business Analytics Laboratory, SBM-ITB"
+format: 
+  html:
+    toc: true
+    toc-location: right
+    self-contained: true
+    smooth-scroll: true
+    code-copy: true
+    theme: cosmo
+editor: visual
+---
+
+## **Foreword**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit **"Introduction to Generative Adversarial Network"**, tiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+## **Reading Material**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna.
+
+-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim?
+
+-   Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque?
+
+-   Donec vel ex pulvinar, elementum nibh at, sagittis lectus?
+
+## **Pre Test**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna.
+
+-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim?
+
+-   Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque?
+
+-   Donec vel ex pulvinar, elementum nibh at, sagittis lectus?
+
+## **Generative Adversarial Network**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+Donec lobortis augue eget tellus mattis condimentum. Vestibulum vel placerat est, et tempor nunc. Vestibulum vitae ultrices urna. Donec mollis feugiat orci, non viverra purus rhoncus a. Ut facilisis consequat nisi, id vulputate urna aliquet quis. Donec tortor odio, convallis tempor odio at, dictum cursus nunc. Morbi quis metus sollicitudin, tincidunt nunc a, tincidunt mi. Integer consectetur finibus efficitur. Donec tincidunt et lectus in auctor. Vestibulum sed bibendum orci. Donec volutpat, nibh eu malesuada ultricies, erat dui dapibus eros, sed pharetra ligula leo tincidunt nulla. Phasellus vitae porttitor ex, feugiat eleifend augue.
+
+### **Component**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+Donec lobortis augue eget tellus mattis condimentum. Vestibulum vel placerat est, et tempor nunc. Vestibulum vitae ultrices urna. Donec mollis feugiat orci, non viverra purus rhoncus a. Ut facilisis consequat nisi, id vulputate urna aliquet quis. Donec tortor odio, convallis tempor odio at, dictum cursus nunc. Morbi quis metus sollicitudin, tincidunt nunc a, tincidunt mi. Integer consectetur finibus efficitur. Donec tincidunt et lectus in auctor. Vestibulum sed bibendum orci. Donec volutpat, nibh eu malesuada ultricies, erat dui dapibus eros, sed pharetra ligula leo tincidunt nulla. Phasellus vitae porttitor ex, feugiat eleifend augue.
+
+## **Case: CIFAR-10**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+Donec lobortis augue eget tellus mattis condimentum. Vestibulum vel placerat est, et tempor nunc. Vestibulum vitae ultrices urna. Donec mollis feugiat orci, non viverra purus rhoncus a. Ut facilisis consequat nisi, id vulputate urna aliquet quis. Donec tortor odio, convallis tempor odio at, dictum cursus nunc. Morbi quis metus sollicitudin, tincidunt nunc a, tincidunt mi. Integer consectetur finibus efficitur. Donec tincidunt et lectus in auctor. Vestibulum sed bibendum orci. Donec volutpat, nibh eu malesuada ultricies, erat dui dapibus eros, sed pharetra ligula leo tincidunt nulla. Phasellus vitae porttitor ex, feugiat eleifend augue.
+
+### **Setup**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+```{r}
+#| eval: false
+#| warning: false
+#| error: false
+
+# Install packages
+install.packages("tensorflow")
+```
+
+```{r}
+#| eval: false
+#| warning: false
+#| error: false
+
+# Load packages
+library("tensorflow")
+```
+
+```{r}
+#| eval: false
+#| warning: false
+#| error: false
+
+# Check Tensorflow installation
+tf$constant("Hellow Tensorflow")
+```
+
+### **Import Data**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+### **Data Exploration**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+### **Preprocessing**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+### **Modeling**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+### **Evaluation**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+### **Make Prediction**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+## **Conclusion**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
+
+## **Post Test**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id elementum arcu, sed auctor magna. In vel ligula eu nisi mattis dignissim. Etiam varius, sapien eget dignissim eleifend, dolor est pulvinar tellus, sed gravida augue mi quis ipsum. Duis ut arcu neque. Donec vel ex pulvinar, elementum nibh at, sagittis lectus. Etiam vulputate lectus lacus, pretium elementum tellus convallis sed. Sed tempus erat dui, quis rutrum sapien commodo imperdiet. In tincidunt, lectus non molestie auctor, nisl lorem aliquet velit, ut scelerisque nibh tellus nec ligula. In hac habitasse platea dictumst.
